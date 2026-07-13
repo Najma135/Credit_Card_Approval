@@ -117,7 +117,7 @@ The application predicts one of the following results:
 
 ## 👩‍💻 Author
 
-**Shaik Sameena**
+**Syed Najma**
 
 B.Tech – Information Technology
 
